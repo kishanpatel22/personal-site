@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//kishanpatel22.github.io/static/css/main.11dac5be.css",
-    "main.js": "/https//kishanpatel22.github.io/static/js/main.78249f27.js",
-    "static/js/453.96cba20d.chunk.js": "/https//kishanpatel22.github.io/static/js/453.96cba20d.chunk.js",
-    "index.html": "/https//kishanpatel22.github.io/index.html",
-    "main.11dac5be.css.map": "/https//kishanpatel22.github.io/static/css/main.11dac5be.css.map",
-    "main.78249f27.js.map": "/https//kishanpatel22.github.io/static/js/main.78249f27.js.map",
-    "453.96cba20d.chunk.js.map": "/https//kishanpatel22.github.io/static/js/453.96cba20d.chunk.js.map"
+    "main.css": "/personal-site/static/css/main.11dac5be.css",
+    "main.js": "/personal-site/static/js/main.cde0aa29.js",
+    "static/js/453.96cba20d.chunk.js": "/personal-site/static/js/453.96cba20d.chunk.js",
+    "index.html": "/personal-site/index.html",
+    "main.11dac5be.css.map": "/personal-site/static/css/main.11dac5be.css.map",
+    "main.cde0aa29.js.map": "/personal-site/static/js/main.cde0aa29.js.map",
+    "453.96cba20d.chunk.js.map": "/personal-site/static/js/453.96cba20d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11dac5be.css",
-    "static/js/main.78249f27.js"
+    "static/js/main.cde0aa29.js"
   ]
 }
