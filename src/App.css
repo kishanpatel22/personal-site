@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Terminal {
+  text-align: center;
+  margin: 5% 8%;
+  height: 75vh;
+}
+
+.Name {
+  text-align: center;
+  height:100%;
+  width:100%;
+  margin-left: "auto";
+  margin-right: "auto";
+}
+
+
